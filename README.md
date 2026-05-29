@@ -4,7 +4,7 @@
 
 💻 SWE Intern @[HermesAI](https://hermesai.ca/)
 
-⚙️ McMaster Engineering - Robotics, autonomous systems, ML
+⚙️ [McMaster Engineering](https://www.eng.mcmaster.ca/) - Robotics, autonomous systems, ML
 
 
 ## 🛠 Tech Stack
