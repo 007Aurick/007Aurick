@@ -28,6 +28,9 @@
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?logo=ros&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
 ![Nvidia Isaac Sim](https://img.shields.io/badge/NVIDIA%20Isaac%20Sim-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-2C3E50?style=flat-square)
+![SLAM](https://img.shields.io/badge/SLAM-1F6FEB?style=flat-square)
+![MuJoCo](https://img.shields.io/badge/MuJoCo-FF4F00?style=flat-square)
 
 
 
