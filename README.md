@@ -19,10 +19,12 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
+
 ## 💡Currently Building
 - 🚀 Startup @[Magnified Systems](https://magnifiedsystems.com) with custom PCBs, voice output control, MPU6050
 - 🤖 Autonomous robotics with ROS2, SLAM, and Gazebo
 - 🧠 Cancer Cell detection with CNNs and Grad-CAM
+  
 
 ## 🚀 Future Stack
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?logo=ros&logoColor=white)
