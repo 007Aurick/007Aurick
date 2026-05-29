@@ -1,5 +1,6 @@
 # Aurick Anwar 
 
+## About Me!
 🏗️ Building @[Magnified Systems](https://magnifiedsystems.com)
 
 💻 SWE Intern @[HermesAI](https://hermesai.ca/)
@@ -19,12 +20,12 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
+## 🔧 CAD Stack
+![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6C00?style=flat-square&logo=autodesk&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-005386?style=flat-square&logo=dassaultsystemes&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=flat-square&logo=autodesk&logoColor=white)
+![Inventor](https://img.shields.io/badge/Inventor-0696D7?style=flat-square&logo=autodesk&logoColor=white)
 
-## 💡Currently Building
-- 🚀 Startup @[Magnified Systems](https://magnifiedsystems.com) with custom PCBs, voice output control, MPU6050
-- 🤖 Autonomous robotics with ROS2, SLAM, and Gazebo
-- 🧠 Cancer Cell detection with CNNs and Grad-CAM
-  
 
 ## 🚀 Future Stack
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?logo=ros&logoColor=white)
@@ -33,8 +34,8 @@
 ![Gazebo](https://img.shields.io/badge/Gazebo-2C3E50?style=flat-square)
 ![SLAM](https://img.shields.io/badge/SLAM-1F6FEB?style=flat-square)
 ![MuJoCo](https://img.shields.io/badge/MuJoCo-FF4F00?style=flat-square)
-![CNNs](https://img.shields.io/badge/CNNs-Deep%20Learning-4A90E2?style=flat-square)
-![Grad-CAM](https://img.shields.io/badge/Grad--CAM-Explainable%20AI-8E44AD?style=flat-square)
+![Altium](https://img.shields.io/badge/Altium-1B1F23?style=flat-square&logo=altiumdesigner&logoColor=white)
+
 
 
 
