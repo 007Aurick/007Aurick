@@ -19,6 +19,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Javascript-61DAFB?logo=react&logoColor=black)
 
 ## 🔧 CAD Stack
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6C00?style=flat-square&logo=autodesk&logoColor=white)
