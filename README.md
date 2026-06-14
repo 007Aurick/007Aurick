@@ -5,7 +5,7 @@
 
 💻 SWE Intern @[HermesAI](https://hermesai.ca/)
 
-Incoming ML Intern @[Personalized Perscribing](https://personalizedprescribing.com/)
+💊 Incoming ML Intern @[Personalized Perscribing](https://personalizedprescribing.com/)
 
 ⚙️ [McMaster Engineering](https://www.eng.mcmaster.ca/) - Robotics, autonomous systems, ML
 
