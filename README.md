@@ -1,5 +1,10 @@
 # Aurick Anwar 
 
+![Profile Views](https://komarev.com/ghpvc/?username=007Aurick&label=Profile+Views&color=0e75b6&style=flat-square)
+
+## About Me!
+...
+
 ## About Me!
 🏗️ Building @[Magnified Systems](https://magnifiedsystems.com)
 
@@ -35,9 +40,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
 ![Nvidia Isaac Sim](https://img.shields.io/badge/NVIDIA%20Isaac%20Sim-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
-## 📈 Git Metrics & Activity
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=007Aurick&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=007Aurick&layout=compact&theme=dark)
+
 
 
 
