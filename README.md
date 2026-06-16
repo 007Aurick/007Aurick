@@ -39,7 +39,7 @@
 
 ## 🧠 Future Projects
 ### 📦 Autonomous Wearhouse Robotics System (In Development) | ROS 2 • SLAM • Gazebo
-* Designing an autonomous warehouse delivery robot simulation mapping environments and executing localized navigation paths using SLAM frameworks.
+### 🔬 Breast Cancer Cell Detection Pipeline (In Development | Grad-Cam, CNNs, Machine Learning
 
 
 
