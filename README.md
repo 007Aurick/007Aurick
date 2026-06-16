@@ -3,9 +3,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=007Aurick&label=Profile+Views&color=0e75b6&style=flat-square)
 
 ## About Me!
-...
-
-## About Me!
 🏗️ Building @[Magnified Systems](https://magnifiedsystems.com)
 
 💻 SWE Intern @[HermesAI](https://hermesai.ca/)
@@ -39,6 +36,12 @@
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?logo=ros&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
 ![Nvidia Isaac Sim](https://img.shields.io/badge/NVIDIA%20Isaac%20Sim-76B900?style=flat-square&logo=nvidia&logoColor=white)
+
+## 🧠 Future Projects
+### 📦 Autonomous Wearhouse Robotics System (In Development) | ROS 2 • SLAM • Gazebo
+* Designing an autonomous warehouse delivery robot simulation mapping environments and executing localized navigation paths using SLAM frameworks.
+
+
 
 
 
