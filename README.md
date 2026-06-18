@@ -36,7 +36,7 @@
 
 ## 🧠 Future Projects
 ### 📦 Autonomous Wearhouse Robotics System (In Development) | ROS 2 • SLAM • Gazebo
-### 🔬 Breast Cancer Cell Detection Pipeline (In Development) | Grad-Cam • CNNs • Machine Learning
+
 
 
 
