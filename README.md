@@ -1,7 +1,5 @@
 # Aurick Anwar 
 
-![Profile Views](https://komarev.com/ghpvc/?username=007Aurick&label=Profile+Views&color=0e75b6&style=flat-square)
-
 ## About Me!
 🏗️ Building @[Magnified Systems](https://magnifiedsystems.com)
 
