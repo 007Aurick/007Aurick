@@ -1,14 +1,13 @@
 # Aurick Anwar 
 
+⚙️ [McMaster Engineering](https://www.eng.mcmaster.ca/) - Engineering Physics
+
 ## About Me!
 🏗️ Building @[Magnified Systems](https://magnifiedsystems.com)
 
 💻 SWE Intern @[HermesAI](https://hermesai.ca/)
 
 💊 Incoming ML Intern @[Personalized Perscribing](https://personalizedprescribing.com/)
-
-⚙️ [McMaster Engineering](https://www.eng.mcmaster.ca/) - Robotics, autonomous systems, ML
-
 
 ## 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
