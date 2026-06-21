@@ -14,17 +14,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
-## 🌐 Web Development
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-
-## 🤖 Robotics & Simulation
-![ROS2](https://img.shields.io/badge/ROS2-22314E?logo=ros&logoColor=white)
-![SLAM](https://img.shields.io/badge/SLAM-E03A3E?logo=ros&logoColor=white)
-![RViz](https://img.shields.io/badge/RViz-22314E?logo=ros&logoColor=00C1DE)
-![Gazebo](https://img.shields.io/badge/Gazebo-F37021?logo=gazebo&logoColor=white)
-![NVIDIA Isaac Sim](https://img.shields.io/badge/NVIDIA%20Isaac%20Sim-76B900?logo=nvidia&logoColor=white)
-
 ## 🧠 AI, Computer Vision & Data Science
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
@@ -34,16 +23,27 @@
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3A?logo=langchain&logoColor=13B557)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
 
+## 🤖 Robotics & Simulation
+![ROS2](https://img.shields.io/badge/ROS2-22314E?logo=ros&logoColor=white)
+![SLAM](https://img.shields.io/badge/SLAM-E03A3E?logo=ros&logoColor=white)
+![RViz](https://img.shields.io/badge/RViz-22314E?logo=ros&logoColor=00C1DE)
+![Gazebo](https://img.shields.io/badge/Gazebo-F37021?logo=gazebo&logoColor=white)
+![NVIDIA Isaac Sim](https://img.shields.io/badge/NVIDIA%20Isaac%20Sim-76B900?logo=nvidia&logoColor=white)
+
+## 🔌 Electronics & Microcontrollers
+![Arduino](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?logo=raspberrypi&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?logo=espressif&logoColor=white)
+
 ## 📐 3D Design & CAD Stack
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-DC143C?logo=dassaultsystemes&logoColor=white)
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-0696D7?logo=autodesk&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E23624?logo=autodesk&logoColor=white)
 ![Inventor](https://img.shields.io/badge/Inventor-E23624?logo=autodesk&logoColor=white)
 
-## 🔌 Electronics & Microcontrollers
-![Arduino](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?logo=raspberrypi&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?logo=espressif&logoColor=white)
+## 🌐 Web Development
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 
 ## ⚙️ Tools & Operating Systems
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
