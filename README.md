@@ -1,4 +1,4 @@
-<div><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=2000&color=FFFFFF&width=900&lines=Hey,+I'm+Aurick.+Passionate+about+Robotics,+AI,+and+ML" alt="Hey, I'm Aurick. Passionate about Robotics, AI, and Machine Learning" /></div>
+<div><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=2000&color=FFFFFF&width=900&lines=Hey,+I'm+Aurick.+Passionate+about+Robotics,+AI,+and+ML." alt="Hey, I'm Aurick. Passionate about Robotics, AI, and Machine Learning" /></div>
 
 ## About Me!
 🏗️ Building @[Magnified Systems](https://magnifiedsystems.com)
