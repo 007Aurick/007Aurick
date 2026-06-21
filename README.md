@@ -1,4 +1,4 @@
-# Aurick Anwar 
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=2000&color=FFFFFF&width=435&lines=Aurick+Anwar" alt="Aurick Anwar" /> 
 
 ## About Me!
 🏗️ Building @[Magnified Systems](https://magnifiedsystems.com)
