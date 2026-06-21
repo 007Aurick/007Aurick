@@ -7,31 +7,52 @@
 
 💊 Incoming ML Intern @[Personalized Perscribing](https://personalizedprescribing.com/)
 
-## 🛠 Tech Stack
+## 🛠️ Programming Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-333?style=flat&logo=pytorch)
-![ROS2](https://img.shields.io/badge/ROS2-22314E?logo=ros&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
-![Nvidia Isaac Sim](https://img.shields.io/badge/NVIDIA%20Isaac%20Sim-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-111827?logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff&style=plastic)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/Javascript-61DAFB?logo=react&logoColor=black)
 
-## 🔧 CAD Stack
-![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6C00?style=flat-square&logo=autodesk&logoColor=white)
-![SolidWorks](https://img.shields.io/badge/SolidWorks-005386?style=flat-square&logo=dassaultsystemes&logoColor=white)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=flat-square&logo=autodesk&logoColor=white)
-![Inventor](https://img.shields.io/badge/Inventor-0696D7?style=flat-square&logo=autodesk&logoColor=white)
+## 🌐 Web Development
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+
+## 🤖 Robotics & Simulation
+![ROS2](https://img.shields.io/badge/ROS2-22314E?logo=ros&logoColor=white)
+![SLAM](https://img.shields.io/badge/SLAM-E03A3E?logo=ros&logoColor=white)
+![RViz](https://img.shields.io/badge/RViz-22314E?logo=ros&logoColor=00C1DE)
+![Gazebo](https://img.shields.io/badge/Gazebo-F37021?logo=gazebo&logoColor=white)
+![NVIDIA Isaac Sim](https://img.shields.io/badge/NVIDIA%20Isaac%20Sim-76B900?logo=nvidia&logoColor=white)
+
+## 🧠 AI, Computer Vision & Data Science
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
+![YOLOv11](https://img.shields.io/badge/YOLOv11-00FFFF?logo=ultralytics&logoColor=black)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-4285F4?logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3A?logo=langchain&logoColor=13B557)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+
+## 📐 3D Design & CAD Stack
+![SolidWorks](https://img.shields.io/badge/SolidWorks-DC143C?logo=dassaultsystemes&logoColor=white)
+![Fusion 360](https://img.shields.io/badge/Fusion%20360-0696D7?logo=autodesk&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E23624?logo=autodesk&logoColor=white)
+![Inventor](https://img.shields.io/badge/Inventor-E23624?logo=autodesk&logoColor=white)
+
+## 🔌 Electronics & Microcontrollers
+![Arduino](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?logo=raspberrypi&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?logo=espressif&logoColor=white)
+
+## ⚙️ Tools & Operating Systems
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 
 
-## 🧠 Future Projects
-### 📦 Autonomous Wearhouse Robotics System (In Development) | ROS 2 • SLAM • Gazebo
+
 
 
 
