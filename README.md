@@ -1,7 +1,5 @@
 <div><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=2000&color=4A90E2&width=900&repeat=false&lines=Hey,+I'm+Aurick.+Passionate+about+Robotics,+AI,+and+ML." alt="Hey, I'm Aurick. Passionate about Robotics, AI, and Machine Learning" /></div>
 
-### [Portfolio Website ↗](https://aurickanwar.com) &nbsp;&nbsp;•&nbsp;&nbsp; [LinkedIn ↗](https://www.linkedin.com/in/aurick-anwar/)
-
 ## About Me!
 🏗️ Building @[Magnified Systems](https://magnifiedsystems.com)
 
@@ -57,6 +55,8 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+
+### [Portfolio Website ↗](https://aurickanwar.com) &nbsp;&nbsp;•&nbsp;&nbsp; [LinkedIn ↗](https://www.linkedin.com/in/aurick-anwar/)
 
 
 
