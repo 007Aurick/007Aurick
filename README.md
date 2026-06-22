@@ -1,11 +1,11 @@
 <div><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=2000&color=4A90E2&width=900&repeat=false&lines=Hey,+I'm+Aurick.+Passionate+about+Robotics,+AI,+and+ML." alt="Hey, I'm Aurick. Passionate about Robotics, AI, and Machine Learning" /></div>
 
 ## About Me!
-🏗️ Building @[Magnified Systems](https://magnifiedsystems.com)
+🏗️ Building **<a href="https://magnifiedsystems.com" target="_blank" rel="noopener noreferrer">@Magnified Systems</a>**
 
-💻 SWE Intern @[HermesAI](https://hermesai.ca/)
+💻 SWE Intern **<a href="https://hermesai.ca/" target="_blank" rel="noopener noreferrer">@HermesAI</a>**
 
-💊 Incoming ML Intern @[Personalized Perscribing](https://personalizedprescribing.com/)
+💊 Incoming ML Intern **<a href="https://personalizedprescribing.com/" target="_blank" rel="noopener noreferrer">@Personalized Prescribing</a>**
 
 ## 🛠️ Programming Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
