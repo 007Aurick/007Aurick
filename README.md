@@ -56,6 +56,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97706?logo=anthropic&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 
