@@ -33,6 +33,7 @@
 ![RViz](https://img.shields.io/badge/RViz-22314E?logo=ros&logoColor=00C1DE)
 ![Gazebo](https://img.shields.io/badge/Gazebo-F37021?logo=gazebo&logoColor=white)
 ![NVIDIA Isaac Sim](https://img.shields.io/badge/NVIDIA%20Isaac%20Sim-76B900?logo=nvidia&logoColor=white)
+![CARLA](https://img.shields.io/badge/CARLA-22C55E?style=flat&logoColor=white)
 
 ## 🔌 Electronics & Microcontrollers
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=white)
