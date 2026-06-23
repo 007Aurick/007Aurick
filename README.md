@@ -55,6 +55,9 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 
 ### [Portfolio Website ↗](https://aurickanwar.com) &nbsp;&nbsp;•&nbsp;&nbsp; [LinkedIn ↗](https://www.linkedin.com/in/aurick-anwar/)
 
