@@ -18,6 +18,7 @@
 ## 🧠 AI, Computer Vision & Data Science
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
 ![YOLOv11](https://img.shields.io/badge/YOLOv11-00FFFF?logo=ultralytics&logoColor=black)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-4285F4?logo=google&logoColor=white)
@@ -25,7 +26,8 @@
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3A?logo=langchain&logoColor=13B557)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white)
+
 
 ## 🤖 Robotics & Simulation
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?logo=ros&logoColor=white)
