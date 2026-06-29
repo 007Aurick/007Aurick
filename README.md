@@ -5,7 +5,6 @@
 
 💻 SWE Intern <a href="https://hermesai.ca/" target="_blank"><strong>@HermesAI</strong></a>
 
-💊 Incoming ML Intern <a href="https://personalizedprescribing.com/" target="_blank"><strong>@Personalized Prescribing</strong></a>
 
 ## 🛠️ Programming Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
