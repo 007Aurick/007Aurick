@@ -1,6 +1,5 @@
 # Hey, I'm Aurick 🦾.
 
-## About Me!
 🏗️ Building <a href="https://magnifiedsystems.com" target="_blank"><strong>@Magnified Systems</strong></a>
 
 💻 SWE Intern <a href="https://hermesai.ca/" target="_blank"><strong>@HermesAI</strong></a>
