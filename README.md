@@ -22,8 +22,7 @@
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-4285F4?logo=google&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3A?logo=langchain&logoColor=13B557)
 
-## 🤖 Robotics & Simulation
-
+## 🤖 Robotics
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?logo=ros&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/Gazebo-F37021?logo=gazebo&logoColor=white)
 ![NVIDIA Isaac Sim](https://img.shields.io/badge/NVIDIA%20Isaac%20Sim-76B900?logo=nvidia&logoColor=white)
