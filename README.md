@@ -1,8 +1,8 @@
 # Hey, I'm Aurick 🦾.
 
 🏗️ Building <a href="https://magnifiedsystems.com" target="_blank"><strong>@Magnified Systems</strong></a>
-
 💻 SWE Intern <a href="https://hermesai.ca/" target="_blank"><strong>@HermesAI</strong></a>
+⚙️ Student <a href="https://www.mcmaster.ca/" target="_blank"><strong>@McMaster University</strong></a>
 
 ## 🛠️ Programming Skills
 
