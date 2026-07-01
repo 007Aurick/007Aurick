@@ -17,15 +17,10 @@
 ## 🧠 AI, Computer Vision & Data Science
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
 ![YOLOv11](https://img.shields.io/badge/YOLOv11-00FFFF?logo=ultralytics&logoColor=black)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-4285F4?logo=google&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3A?logo=langchain&logoColor=13B557)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white)
 
 
 ## 🤖 Robotics & Simulation
@@ -35,32 +30,24 @@
 ![Gazebo](https://img.shields.io/badge/Gazebo-F37021?logo=gazebo&logoColor=white)
 ![NVIDIA Isaac Sim](https://img.shields.io/badge/NVIDIA%20Isaac%20Sim-76B900?logo=nvidia&logoColor=white)
 ![CARLA](https://img.shields.io/badge/CARLA-22C55E?style=flat&logoColor=white)
-
-## 🔌 Electronics & Microcontrollers
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?logo=raspberrypi&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?logo=espressif&logoColor=white)
 
-## 📐 3D Design & CAD Stack
+## 📐 CAD Design
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-DC143C?logo=dassaultsystemes&logoColor=white)
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-0696D7?logo=autodesk&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E23624?logo=autodesk&logoColor=white)
 ![Inventor](https://img.shields.io/badge/Inventor-E23624?logo=autodesk&logoColor=white)
 
-## 🌐 Web Development
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 
 ## ⚙️ Tools & Operating Systems
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97706?logo=anthropic&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+
 
 ### [Portfolio Website ↗](https://aurickanwar.com) &nbsp;&nbsp;•&nbsp;&nbsp; [LinkedIn ↗](https://www.linkedin.com/in/aurick-anwar/)
 
