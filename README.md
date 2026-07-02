@@ -4,7 +4,7 @@
 
 💻 SWE Intern <a href="https://hermesai.ca/" target="_blank"><strong>@HermesAI</strong></a>
 
-⚙️ Student <a href="https://www.mcmaster.ca/" target="_blank"><strong>@McMaster University</strong></a>
+💊 Incoming ML Intern <a href="https://personalizedprescribing.com/" target="_blank"><strong>@Personalized Prescribing</strong></a>
 
 ## 🛠️ Programming Skills
 
