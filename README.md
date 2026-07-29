@@ -1,5 +1,6 @@
 # Hey, I'm Aurick 🦾.
 🏗️ Building <a href="https://magnifiedsystems.com" target="_blank"><strong>@Magnified Systems</strong></a>
+<br>
 💻 SWE Intern <a href="https://hermesai.ca/" target="_blank"><strong>@HermesAI</strong></a>
 ## 🛠️ Programming Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
