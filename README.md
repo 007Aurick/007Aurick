@@ -1,8 +1,6 @@
 # Hey, I'm Aurick 🦾.
 
-🏗️ Building <a href="https://magnifiedsystems.com" target="_blank"><strong>@Magnified Systems</strong></a>
-<br>
-💻 SWE Intern <a href="https://hermesai.ca/" target="_blank"><strong>@HermesAI</strong></a>
+💻 ML <a href="https://personalizedprescribing.com/" target="_blank"><strong>@Personalized Prescribing</strong></a>
 
 ## 🛠️ Programming Skills
 
