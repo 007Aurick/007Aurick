@@ -1,4 +1,4 @@
 * Engineering Physics @ [McMaster University](https://www.mcmaster.ca/)
 * SWE @ [Magic Hour AI](https://magichour.ai/)
 * Seeking Summer 2027 internships
-* [View Work](https://www.aurickanwar.com/)
+* [Website](https://www.aurickanwar.com/) * [Twitter](https://x.com/007Aurick) * [Linkedin](https://www.linkedin.com/in/aurick-anwar/) * [](anwara19@mcmaster.ca)
